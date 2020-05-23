@@ -1,0 +1,9 @@
+[submodule "funkwhale"]
+	path = funkwhale
+	url = git@github.com:OddNaughty/funkwhale_api.git
+[submodule "loudspeaker_crawling"]
+	path = loudspeaker_crawling
+	url = git@github.com:OddNaughty/loudspeakerdatabase_crawling.git
+[submodule "subsub"]
+	path = subsub
+	url = git@github.com:OddNaughty/subsub.git
